@@ -1,6 +1,6 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
+title: Erratic Food
+email: noreply@erratic.space
 description: The plain text recipe database for hackers
 baseurl: "https://food.erratic.space"
 language: "en"
